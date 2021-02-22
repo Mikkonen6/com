@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8f5dafa7-734f-4db3-9278-b2dd5feea8fc" name="ftp.rautavirta.com" url="https://rautavirta.com">
+        <fileTransfer accessType="FTPS" host="ftp.rautavirta.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
